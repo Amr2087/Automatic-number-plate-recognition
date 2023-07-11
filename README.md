@@ -45,23 +45,11 @@ pip install -r requirements.txt
 
 ## Configuration
 
-- You can adjust the ANPR system's behavior by modifying the configuration parameters in the `anpr.py` script.
 - The YOLOv8 model configuration and weights can be customized to achieve desired accuracy and performance.
-
-## Examples
-
-Here are some examples of the ANPR system's output:
-
-![Example 1]('examples/example1.png')
-![Example 2](examples/example2.png)
 
 ## Contributing
 
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please submit them as GitHub issues.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
