@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 Here are some examples of the ANPR system's output:
 
-![Example 1]('examples/example1.png')
+![Screenshots/1.png]('examples/example1.png')
 ![Example 2](examples/example2.png)
 
 ## Contributing
