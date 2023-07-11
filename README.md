@@ -70,6 +70,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or questions, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or questions, please contact [amrahmedfarouk70@gmail.com](mailto:your-email@example.com).
 
 Feel free to update the sections, add more information, and provide additional details that are relevant to your project. Including example outputs, screenshots, or diagrams can also be helpful for users to understand the project better.
