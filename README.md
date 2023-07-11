@@ -38,13 +38,10 @@ pip install -r requirements.txt
 ## Usage
 
 1. Place the input images containing vehicles in the `images` directory.
-2. Run the ANPR script:
-
-```shell
-python anpr.py
-```
-
-3. The script will process the images and output the detected number plates along with the extracted text.
+2. Open the notebook
+3. intiate the model
+4. use the predict function
+5. The script will process the images and output the detected number plates along with the extracted text.
 
 ## Configuration
 
