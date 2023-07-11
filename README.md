@@ -26,7 +26,7 @@ Make sure you have the following dependencies installed:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/Automatic-Number-Plate-Recognition.git
+git clone https://github.com/Amr2087/Automatic-Number-Plate-Recognition.git
 ```
 
 2. Install the required Python dependencies:
